@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
+- [Flow Diagram](#flow-diagram)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
@@ -18,7 +19,10 @@ The HR Policy Chatbot Assistant is an AI-powered solution designed to help new e
 - Separate interfaces for administrators and employees
 
 ## System Architecture
-![FLowDiagram](FlowDiagram.png)
+![System Architecture](SystemArchitecture.png)
+
+## Flow Diagram
+![Flow Diagram](FlowDiagram.png)
 
 **Workflow Explanation:**
 1. **Admin Workflow**:
