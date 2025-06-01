@@ -3,13 +3,9 @@
 ## Table of Contents
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
-- [Features](#features)
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Modules Overview](#modules-overview)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ## Overview
 
