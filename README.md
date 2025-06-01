@@ -91,9 +91,13 @@ Edit `config.py` to customize the application:
 4. View processing status
 5. Documents are now available for employee queries
 
+![Admin Interface](AdminPanel.png)
+
 ### Employee Interface
 1. Access the **Employee Chat** tab
 2. Ask questions in natural language
 3. View answers with source citations
 4. Start new conversations with the "Clear Chat" button
+
+![User Interface](UserPanel.png)
 
