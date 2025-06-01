@@ -9,7 +9,6 @@
 - [Usage](#usage)
 
 ## Overview
-
 The HR Policy Chatbot Assistant is an AI-powered solution designed to help new employees quickly find answers to HR-related questions. The application uses open-source tools and large language models to provide accurate responses based on company policy documents.
 
 **Key Components:**
