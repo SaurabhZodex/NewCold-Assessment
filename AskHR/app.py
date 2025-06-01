@@ -32,7 +32,7 @@ def main():
         with gr.Tab("Admin Panel"):
             admin_panel_ui()
     
-    app.launch(server_port=7860)
+    app.launch(server_port=8000)
 
 if __name__ == "__main__":
     main()
